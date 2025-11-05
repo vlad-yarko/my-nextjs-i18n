@@ -1,0 +1,15 @@
+{
+	"HomePage": {
+		"title": "Привіт бро",
+		"content": "Антон гей"
+	},
+	"AboutPage": {
+		"title": "ПУКІ"
+	},
+	"ClientPage": {
+		"title": "клієнт"
+	},
+	"AsyncAbout": {
+		"title": "асинхронний about"
+	}
+}

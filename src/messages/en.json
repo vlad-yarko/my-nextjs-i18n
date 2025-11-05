@@ -1,0 +1,15 @@
+{
+    "HomePage": {
+        "title": "Hello bro",
+        "content": "Anton is gay"
+    },
+    "AboutPage": {
+        "title": "PUKI"
+    },
+    "ClientPage": {
+        "title": "client"
+    },
+    "AsyncAbout": {
+        "title": "async about"
+    }
+}
